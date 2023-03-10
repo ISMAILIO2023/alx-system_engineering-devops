@@ -1,2 +1,2 @@
 #!/bin/bash
-choxn --from=guillaume betty hello
+chown --froim=guillaume betty hello
